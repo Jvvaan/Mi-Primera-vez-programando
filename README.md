@@ -1,2 +1,2 @@
 # Mi-Primera-vez-programando
-Estoy aprendiendo a usar python y estoy aprendiendo en un curso de yt para mi futuro ;D
+Estoy aprendiendo a usar python para prepararme en mi futuro c:
